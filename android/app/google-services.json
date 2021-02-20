@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "518381677950",
+    "firebase_url": "https://bus-tracking-in-analytics.firebaseio.com",
+    "project_id": "bus-tracking-in-analytics",
+    "storage_bucket": "bus-tracking-in-analytics.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:518381677950:android:d30f386201c1ddb666d72f",
+        "android_client_info": {
+          "package_name": "com.driverapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "518381677950-cj7mv8ld0cl3pr37nsbal7nl88fakd7m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUDVOht_mrT-8JDlUwlm77W-EqCy6PIFo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "518381677950-cj7mv8ld0cl3pr37nsbal7nl88fakd7m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
